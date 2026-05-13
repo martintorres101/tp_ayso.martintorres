@@ -1,0 +1,132 @@
+ssh keygen
+ssh-keygen
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+sudo apt install git
+git --version
+git clone git@github.com:martintorres101/-TP_AySO..git
+vagrant status
+exit
+git clone git@github.com:martintorres101/-TP_AySO..git
+gir clone git@github.com:martintorres101/-TP_AySO.martintorres.git
+git clone git@github.com:martintorres101/-TP_AySO.martintorres.git
+ssh_keygen
+cat $HOME/.ssh/'.pub
+
+
+
+
+
+
+
+
+
+
+
+
+exit
+git@github.com:martintorres101/-TP_AySO.martintorres.git
+cat $HOME/.ssh/*.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:martintorres101/-TP_AySO.martintorres.git
+cd T
+cd -TP_AySO.martintorres/
+cd -TP_AySO.martintorres
+git clone git@github.com:martintorres101/TP_AySO.martintorres.git
+cd TP_AySO.martintorres
+ls -l
+cat /etc/passwd
+man grep
+grep UBUNTU /etc/passwd
+gret ubuntu /etc/passwd
+grep ubuntu /etc/passwd
+man grep
+grep -i ubuntu /etc/passwd | cut -d: -f2 > datos_usuario.txt
+echo "Usuario=$(whoami)" >> datos_usuario.txt
+cat datos_usuario.txt 
+echo "Usuario=$(whoami)" >> datos_usuario.txt
+cat datos_usuario.txt 
+rm datos_usuario.txt 
+grep -i ubuntu /etc/passwd | cut -d: -f2 > datos_usuario.txt
+echo "Usuario=$(whoami)" >> datos_usuario.txt
+cat datos_usuario.txt
+git add .
+git config --global user.email "martinignaciotorres11@gmail.com" 
+git config --global user.name "martintorres101"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+cd TP_AySO.martintorres
+git status
+ls
+cd /
+ls
+cd prog/
+cd proc/
+ls
+cat cúinfo
+cat cpuinfo
+cat /proc/cpuinfo | grep "model name" | head -n1 >> info_pc.txt
+cd
+cd TP_AySO.martintorres
+cat info_pc.txt 
+git add . 
+git status
+git push
+cd TP_AySO.martintorres
+grep -v "nologin" /etc/passwd | sort -t: -k7 | head -n10 > lista_ordenada
+cat lista_ordenada 
+git add .
+git commit -m “ADD: Listado de usuarios ordenada”
+git commit -m "ADD: Listado de usuarios ordenada"
+git push
+history
+cat << EOF >> README.md
+Alumno: Martin Torres
+División: 116
+Turno: Mañana
+EOF
+
+cat README.md 
+git add .
+git commit -m "docs: agregando información del alumno al README"
+git push
+cd /home/vagrant
+sudo apt install tree
+tree
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}
+tree TP1
+cat << EOF > script_dir.sh
+#!/bin/bash
+
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}
+EOF
+
+chmod +x script_dir.sh
+./script_dir.sh
+tree TP1
+cd TP_Ayso.martintorres/
+history
+cd 
+cd TP
+cd TP_AySO.martintorres
+history
+cat << EOF > script_dir.sh
+#!/bin/bash
+
+mkdir -p TP1/{arquitectura/Clase{1..5},so/Clase{1..6}}
+EOF
+
+ls
+chmod +x script_dir.sh
+./script_dir.sh
+tree TP1
+git add .
+git commit -m "ADD: Añadiendo script"
+git push
+history -a
